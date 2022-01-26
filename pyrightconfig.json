@@ -1,0 +1,11 @@
+{
+	"venv": "nvim-workspace-IGDsIUhY-py3.10",
+	"include": [
+		"nvim_workspace"
+	],
+	"executionEnvironments": [
+		{
+			"root": "nvim_workspace"
+		}
+	]
+}
